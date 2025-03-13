@@ -1,4 +1,4 @@
-# Mariana Ribeiro❤️
+# Mariana Ribeiro🩶
 
 Me chamo Mariana Chaves Ribeiro, tenho 16 anos e atualmente estou cursando Técnico em Desenvolvimento de Sistemas e Java no SENAI, além de estar aprimorando meus conhecimentos em inglês. Tenho grande interesse na área de tecnologia, e estou buscando me inserir no mercado de trabalho para colocar em prática meus aprendizados e crescer profissionalmente.
 Minhas principais habilidades incluem programação em Java, desenvolvimento de sistemas, lógica de programação, análise e resolução de problemas, além de possuir uma base sólida em banco de dados e técnicas de desenvolvimento ágil. Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir de maneira efetiva para o sucesso de projetos na área de tecnologia.
