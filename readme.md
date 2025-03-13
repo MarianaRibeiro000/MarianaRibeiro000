@@ -1,25 +1,15 @@
-# 🧙🏻‍♂️ Mago Raul
+# Mariana Ribeiro
 
 **`Desenvolvedor FullStack`**
 
-I am an 👨🏽‍🏫 Educator in Technology who Thrives through Learning and Teaching 🚀
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas e Java no SENAI, além de aprimorar meus conhecimentos em inglês. Tenho grande interesse na área de tecnologia, e estou buscando me inserir no mercado de trabalho para colocar em prática meus aprendizados e crescer profissionalmente.
+Minhas principais habilidades incluem programação em Java, desenvolvimento de sistemas, lógica de programação, análise e resolução de problemas, além de possuir uma base sólida em banco de dados e técnicas de desenvolvimento ágil. Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir de maneira efetiva para o sucesso de projetos na área de tecnologia.
+Com determinação e foco, meu objetivo é seguir construindo minha carreira nesse universo tecnológico, oferecendo soluções inovadoras e me adaptando às necessidades do mercado.
 
-A passionate technology educator who thrives on sharing knowledge and guiding aspiring minds. 
-
-He believes teaching is a two-way street—where both educator and students grow through engagement and exploration.
-
-His classroom fosters collaboration, innovation, and interactive learning 🌟. 
-
-He bridges the gap between the technical and the artistic, turning code into visually captivating experiences.
-
-A lifelong learner, he stays ahead of tech trends to ensure his students receive cutting-edge education. 
-
-With clarity and creativity, he transforms complexity into inspiration, redefining what it means to teach technology. 🚀
-
-Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
+Follow in Instagram "[@_marianaribeirox](https://www.instagram.com/_marianaribeirox/)".
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/raul-porto-lopes-8a866954/">
+    <a href="https://www.linkedin.com/in/mariana-ribeiro-576443352/">
         <img 
             alt="Linkedins" 
             title="Meu Linkedin" 
