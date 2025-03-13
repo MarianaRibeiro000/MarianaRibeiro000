@@ -5,6 +5,7 @@ Minhas principais habilidades incluem programação em Java, desenvolvimento de 
 Com determinação e foco, meu objetivo é seguir construindo minha carreira nesse universo tecnológico, oferecendo soluções inovadoras e me adaptando às necessidades do mercado.
 
 Follow in Instagram "[@_marianaribeirox](https://www.instagram.com/_marianaribeirox/)".
+Email para contato "marianacribeiro1012@gmail.com"
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mariana-ribeiro-576443352/">
