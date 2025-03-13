@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/MarianaRibeiro000">
   Mariana Ribeiro
-    /></a>
+    </a>
 </p>
 
 <p align="center">
